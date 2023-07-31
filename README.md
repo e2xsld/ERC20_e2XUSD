@@ -1,6 +1,6 @@
 # ERC20 Tutorial Template
 
-Written by [0xWANT3D](https://twitter.com/0xWANT3D).
+Written by e2X.Work Team.
 
 For more information, about this template refer to the medium article [here](https://medium.com/@0xWANT3D/mint-your-first-erc20-token-on-polygon-solidity-openzeppelin-js-a093aea2c2ff).
 
